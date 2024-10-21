@@ -8,8 +8,8 @@
       <p v-if="count === 0" style="color: red;">Counter is at zero!</p>
     </div>
   </div>
-</template>
-
+</template> 
+   
 <script>
 export default {
   data() {
